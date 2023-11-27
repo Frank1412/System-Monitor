@@ -1,0 +1,3 @@
+/Users/shouzhifang/codes/udacity/cpplearn/System-Monitor/build/CMakeFiles/monitor.dir
+/Users/shouzhifang/codes/udacity/cpplearn/System-Monitor/build/CMakeFiles/edit_cache.dir
+/Users/shouzhifang/codes/udacity/cpplearn/System-Monitor/build/CMakeFiles/rebuild_cache.dir
